@@ -1,0 +1,16 @@
+{
+    "name": "firman/mahasiswa",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Firman Pamungkas",
+            "email": "terfirman@gmail.com",
+            "role": "pelajar"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "description": "Project UAS Semester 4"
+
+}

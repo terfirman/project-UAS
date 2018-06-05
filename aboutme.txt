@@ -1,0 +1,6 @@
+# Projek UTS Pemrograman Web #
+
+NIM     : 16090095
+Nama    : Firman Pamungkas
+Kelas   : 4C
+Prodi   : D4 Teknik Informatika
